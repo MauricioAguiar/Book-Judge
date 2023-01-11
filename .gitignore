@@ -75,6 +75,7 @@ target/
 BookDataBase/
 resizedata/
 aug_data/
+Bookcover/
 
 # Jupyter Notebook
 .ipynb_checkpoints
