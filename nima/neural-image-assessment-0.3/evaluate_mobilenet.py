@@ -12,6 +12,9 @@ import tensorflow as tf
 
 from utils.score_utils import mean_score, std_score
 
+
+    
+
 parser = argparse.ArgumentParser(description='Evaluate NIMA(Inception ResNet v2)')
 parser.add_argument('-dir', type=str, default=None,
                     help='Pass a directory to evaluate the images in it')
