@@ -32,6 +32,7 @@ I then selected the most suitable model for the project based on the results.
 ![Loss Graphs](book-judge_project/proj1-1.png)
 ![Classification Loss](book-judge_project/proj1-2.png)
 ![Regression Loss](book-judge_project/proj1-3.png)
+
 *Graphs showing error reduction during training batches. Classification performed better than regression.*
 
 ---
